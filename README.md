@@ -5,7 +5,7 @@
 
 ANAVI Arrows is an open source, custom-programmable, mini keyboard/keypad.
 
-ANAVI Arrows has been designed with [the cross platform and open source electronics design automation suite KiCad](https://kicad-pcb.org/).
+ANAVI Arrows has been designed with [the cross platform and open source electronics design automation suite KiCad](https://kicad.org/).
 
 # License
 
