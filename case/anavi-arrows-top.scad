@@ -20,7 +20,7 @@ outer_h = 5;
 
 // Inner hole
 hole_r = 2.5;
-hole_h = 2;
+hole_h = 4;
 
 // Display size
 display_size = 28;
